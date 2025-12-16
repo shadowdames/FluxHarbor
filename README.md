@@ -107,7 +107,9 @@ MIT License
 ## Author
 
 GitHub: https://github.com/shadowdames 
+
 Public contact (email): dames.shadow-0l@icloud.com 
+
 Public contact (X): https://x.com/fedorovmaxx1
 
 ---
